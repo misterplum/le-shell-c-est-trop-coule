@@ -1,0 +1,10 @@
+sudo mkdir jaime_le_shell
+
+mkdir test1 & mkdir test2 & mkdir test3 & mkdir test4 & mkdir test5 & mkdir test6 &
+
+mkdir le_shell_cest_trop_cool
+
+sudo mv test1 jaime_le_shell & sudo mv test5 jaime_le_shell
+
+cp test2 -R le_shell_cest_trop_cool
+cp test6 -R le_shell_cest_trop_cool
